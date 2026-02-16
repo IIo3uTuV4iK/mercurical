@@ -1,4 +1,4 @@
-; AutoTyper licenses (plain text, public repo).
+﻿; AutoTyper licenses (plain text, public repo).
 ; Формат:
 ;   K;<KEY>;<status>;<hwids>;<expires>
 ;     status: active|frozen|blocked|deleted
@@ -10,3 +10,5 @@
 ; Пример ключа (замени на свой):
 ;K;utmcshj?41;active;*;
 
+
+K;2DDLJ-L4CVU-PCT75-QMEXF;active;*;2026-02-17
