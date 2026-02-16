@@ -1,0 +1,12 @@
+; AutoTyper licenses (plain text, public repo).
+; Формат:
+;   K;<KEY>;<status>;<hwids>;<expires>
+;     status: active|frozen|blocked|deleted
+;     hwids: * или hwid1|hwid2
+;     expires: пусто или YYYY-MM-DD
+;   H;<HWID>;<status>
+;     status: allowed|blocked
+
+; Пример ключа (замени на свой):
+;K;utmcshj?41;active;*;
+

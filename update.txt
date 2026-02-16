@@ -1,0 +1,14 @@
+; AutoTyper update manifest (plain text).
+; Увеличивай Version при каждом обновлении AutoTyper.ahk.
+; Url должен указывать на RAW файл (по умолчанию).
+; Если ты раздаешь compiled .exe, добавь UrlExe (и AutoTyper.exe будет обновляться по нему).
+Version=2.0.0
+Url=https://raw.githubusercontent.com/IIo3uTuV4iK/mercurical/main/AutoTyper.ahk
+; Для compiled версии (пример: Mercurical.exe в корне репозитория):
+;UrlExe=https://raw.githubusercontent.com/IIo3uTuV4iK/mercurical/main/Mercurical.exe
+; Для исходника (опционально, если Url указывает на что-то другое):
+;UrlAhk=https://raw.githubusercontent.com/IIo3uTuV4iK/mercurical/main/AutoTyper.ahk
+; Sha256 опционально (64 hex). Если заполнить, AutoTyper проверит хэш перед заменой.
+;Sha256=
+;Sha256Exe=
+;Sha256Ahk=
